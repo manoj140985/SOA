@@ -1,0 +1,6 @@
+{
+  "name": "ExamGuard — Question Bank Exposure Limits",
+  "description": "Microservices-based assessment paper generator with exposure limit enforcement, course outcome coverage tracking, and Kafka workflow integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
